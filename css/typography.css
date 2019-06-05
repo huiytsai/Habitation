@@ -112,6 +112,20 @@ a:active {}
   line-height: 1.6em;
 }
 
+h3 {
+  font-size: 0.9em;
+  font-style: italic;
+  font-weight: normal;
+  margin: 10px 0;
+  color: black;
+}
+
+h4 {
+  font-size: 1.2em;
+  margin: 10px 0;
+  color: black;
+}
+
 h5 {
   font-size: 0.9em;
   margin: 10px 0;

@@ -14,13 +14,13 @@
   transition: opacity 300ms;
 }
 
-.accordion .panel.expanded, .accordion .panel.collapsed:hover {
+/*.accordion .panel.expanded, .accordion .panel.collapsed:hover {
   opacity: 1;
 }
 
 .accordion .panel.collapsed {
   opacity: 0.75;
-}
+}*/
 
 .accordion .panel img {
   display:block;
